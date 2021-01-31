@@ -1,0 +1,8 @@
+example:
+  baseUrl: http://localhost:8080
+  oauth2:
+    client:
+      clientId: 0oa4rntksancSPHSg5d6
+      clientSecret: oaKZDkJC-oUstyCTT1prnb6yIiZ_5mdOrkqKRP8s
+      accessTokenUri: https://dev-11854015.okta.com/oauth2/default/v1/token
+      scope: custom_mod
